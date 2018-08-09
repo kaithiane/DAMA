@@ -1,0 +1,29 @@
+body {
+	background-color:#8B0000;
+	color:#FFFF00;
+	font-family:Algerian;
+}
+.quadrado{
+	position:relative;
+	top: 0px;
+	left: 0px;
+	background-color: #ffffff;
+	height: 100px;
+	width: 100px;
+}
+.quadrado2{
+	position:relative;
+	top: -100px;
+	left: 101px;
+	background-color: #cccccc;
+	height: 100px;
+	width: 100px;
+}
+.quadrado3{
+	position:relative;
+	top: -200px;
+	left: 202px;
+	background-color: #ffffff;
+	height: 100px;
+	width: 100px;
+	
